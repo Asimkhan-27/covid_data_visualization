@@ -1,0 +1,1 @@
+This repository contain a django backend app that visualise different aspect of covid. I use django as backend to develop a web then i have use python libraries to analyze and drawing the multiple graphs. Libraries used are Bokeh, Folium, numpy, pandas, matplotlib, seaborn etc.
